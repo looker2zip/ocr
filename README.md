@@ -13,3 +13,5 @@
 ## 딥러닝
 - Text Detection Model-SSD
 - Text Recognition Model-CRNN
+
+## 숫자 먼저 테스트 합니다.
