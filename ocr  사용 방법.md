@@ -1,3 +1,4 @@
+`````
 아래 처럼 실행하면 됩니다.
 cd n-ocr-on-opencv
 python ocr1.py
@@ -14,3 +15,5 @@ python ocr
 python ocr4.py
 python ocr_mnist.py
 python ocr4.py
+
+`````
